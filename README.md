@@ -76,7 +76,7 @@ Each image is converted into a 128-dimensional feature vector:
 - Coordinates are normalized relative to the wrist (landmark 0) for translation invariance.
 - If a hand is not detected, its slots are filled with zeros (with type preserved so the model knows which hand is missing).
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
