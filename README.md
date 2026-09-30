@@ -47,7 +47,7 @@ isl-gesture-recognition/
 └── README.md
 ```
 
-## ⚙️ How It Works
+## How It Works
 
 ### Pipeline
 
